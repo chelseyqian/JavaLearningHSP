@@ -37,18 +37,42 @@ public class Switch01 {
 
         //判断学生成绩是否合格
         System.out.print("输入成绩：");
-        int score = kbd.nextInt();
-        switch (score) {
-            case score >= 60 :
-
+        double score = kbd.nextDouble();
+        if (score >= 0 && score <= 100) {
+            switch ((int)(score/60)) {
+                case 0 :
+                    System.out.println("不及格");
+                    break;
+                case 1 :
+                    System.out.println("及格");
+            }
+        } else {
+            System.out.println("输入有误");
         }
 
         //根据指定月份打印季节
         System.out.print("输入月份：");
         int month = kbd.nextInt();
         switch (month) {
+            case 3 :
+            case 4 :
+            case 5 :
+                System.out.println("春天");
+                break;
+            case 6 :
+            case 7 :
+            case 8 :
+                System.out.println("夏天");
+                break;
+            case 9 :
+            case 10 :
+            case 11 :
+                System.out.println("秋天");
+                break;
+            case 12 :
             case 1 :
-
+            case 2 :
+                System.out.println("冬天");
         }
     }
 }
