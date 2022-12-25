@@ -54,7 +54,7 @@ public class MulForExercise {
 //            System.out.println();
 //        }
 
-        //4. 打印空心金字塔，可以接收一个整数表示层数
+//        //4. 打印空心金字塔，可以接收一个整数表示层数
         /*
         我的思路
         （1）先写一个每一行不加空格的塔
@@ -70,7 +70,7 @@ public class MulForExercise {
         先死后活
         把层数做成变量
          */
-        System.out.print("Enter the level: ");
+        System.out.print("输入行数: ");
         int totalLevel = kbd.nextInt();
         for (int i = 1; i <= totalLevel; i++) {
             //输出每一行*前面的空格
@@ -87,6 +87,37 @@ public class MulForExercise {
                 }
             }
             //每打印完一层*后换行
+            System.out.println();
+        }
+
+        //5. 菱形
+        System.out.print("想要多少行的菱形？（输入一个奇数）");
+        int num = kbd.nextInt();
+        //前三行
+        for (int i = 1; i <= num / 2; i++) {
+            //上面的空格
+            for (int j = 1; j <= num / 2 - i + 1; j++) {
+                System.out.print(" ");
+            }
+            //输入*
+            for (int k = 1; k <= i * 2 - 1; k++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+        //中间行
+        for (int a = 1; a <= 2 * (num / 2 + 1) - 1; a++) {
+            System.out.print("*");
+        }
+        System.out.println();
+        //下三行
+        for (int i = 1; i <= num / 2; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print(" ");
+            }
+            for (int k = num - i * 2; k-->0;) {
+                System.out.print("*");
+            }
             System.out.println();
         }
     }
