@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d82ae8-4093-41ce-bb1e-c4ad2a342278" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/BreakExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +44,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ControlExercise">
-    <configuration name="BreakExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakExercise" />
+  <component name="RunManager" selected="Application.BubbleSorting">
+    <configuration name="ArrayAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAdd" />
+      <module name="JavaLearningHSP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExercise" />
+      <module name="JavaLearningHSP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayReduce" />
+      <module name="JavaLearningHSP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSorting" />
       <module name="JavaLearningHSP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,34 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhileExercise" />
-      <module name="JavaLearningHSP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForExercise" />
-      <module name="JavaLearningHSP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MulForExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MulForExercise" />
-      <module name="JavaLearningHSP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSorting" />
+        <item itemvalue="Application.ArrayReduce" />
+        <item itemvalue="Application.ArrayAdd" />
+        <item itemvalue="Application.ArrayExercise" />
         <item itemvalue="Application.ControlExercise" />
-        <item itemvalue="Application.BreakExercise" />
-        <item itemvalue="Application.MulForExercise" />
-        <item itemvalue="Application.DoWhileExercise" />
-        <item itemvalue="Application.ForExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671997013799</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1672081536770</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672081536770</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
