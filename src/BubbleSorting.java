@@ -1,4 +1,4 @@
-//冒泡排序
+//冒泡排序（见笔记）
 
 public class BubbleSorting {
     public static void main(String[] args) {
