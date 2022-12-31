@@ -11,18 +11,18 @@ public class EightQueen {
     }
 }
 
-class Queen {
-    //用i表示行，用j表示列，用num表示已经下的棋子数
-    public boolean assign(int[][] map, int i, int j, int num) {
-        if (num == 8) {
-            return true;
-        } else {
-            if (map[i][j] == 0) {
-                map[i][j] = 1;
-                i++;
-                num+=1;
-
-            }
-        }
-    }
-}
+//class Queen {
+//    //用i表示行，用j表示列，用num表示已经下的棋子数
+//    public boolean assign(int[][] map, int i, int j, int num) {
+//        if (num == 8) {
+//            return true;
+//        } else {
+//            if (map[i][j] == 0) {
+//                map[i][j] = 1;
+//                i++;
+//                num+=1;
+//
+//            }
+//        }
+//    }
+//}
