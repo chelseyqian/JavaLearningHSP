@@ -1,4 +1,4 @@
-//数组扩容
+package Chapter6;//数组扩容
 import java.util.*;
 public class ArrayAdd {
     public static void main(String[] args) {

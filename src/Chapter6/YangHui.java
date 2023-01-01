@@ -1,4 +1,4 @@
-//杨辉三角
+package Chapter6;//杨辉三角
 import java.util.*;
 
 public class YangHui {

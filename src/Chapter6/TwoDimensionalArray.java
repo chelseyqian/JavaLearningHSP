@@ -1,3 +1,5 @@
+package Chapter6;
+
 public class TwoDimensionalArray {
     public static void main(String[] args) {
 

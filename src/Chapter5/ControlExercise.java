@@ -1,4 +1,4 @@
-//控制结构练习
+package Chapter5;//控制结构练习
 
 import java.util.*;
 public class ControlExercise {
@@ -51,7 +51,7 @@ public class ControlExercise {
 
         System.out.println();
 
-        //4. 输出小写的a-z和大写的Z-A
+        //4. 输出小写的a-z和大写的Z-Chapter7.A
         for (char c1 = 'a'; c1 <= 'z'; c1++) {
             System.out.print(c1 + " ");
         }

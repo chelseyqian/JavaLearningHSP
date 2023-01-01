@@ -1,3 +1,5 @@
+package Chapter7;
+
 public class VarParameterExercise {
     public static void main(String[] args) {
 

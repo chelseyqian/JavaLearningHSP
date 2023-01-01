@@ -1,3 +1,5 @@
+package Chapter5;
+
 import java.util.Scanner;
 public class SwitchExercise {
     public static void main(String[] args) {
@@ -26,7 +28,7 @@ public class SwitchExercise {
         char c2 = kbd.next().charAt(0);
         switch (c2) {
             case 'a' :
-                System.out.println("A");
+                System.out.println("Chapter7.A");
                 break;
             case 'b' :
                 System.out.println("B");

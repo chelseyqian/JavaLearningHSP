@@ -1,4 +1,4 @@
-//数组缩减练习
+package Chapter6;//数组缩减练习
 import java.util.*;
 public class ArrayReduce {
     public static void main(String[] args) {

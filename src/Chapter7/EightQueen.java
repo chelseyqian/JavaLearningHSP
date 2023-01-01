@@ -1,3 +1,5 @@
+package Chapter7;
+
 public class EightQueen {
     public static void main(String[] args) {
         //生成棋盘，用0表示每个位置的初始值

@@ -1,3 +1,5 @@
+package Chapter5;
+
 import java.util.Scanner;
 public class DoWhileExercise {
     public static void main(String[] args) {

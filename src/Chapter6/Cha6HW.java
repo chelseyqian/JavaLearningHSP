@@ -1,4 +1,4 @@
-//第六章作业
+package Chapter6;//第六章作业
 import java.util.*;
 
 public class Cha6HW {

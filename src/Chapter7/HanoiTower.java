@@ -1,3 +1,5 @@
+package Chapter7;
+
 public class HanoiTower {
     public static void main(String[] args) {
         Tower tower = new Tower();
