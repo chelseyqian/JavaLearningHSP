@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d82ae8-4093-41ce-bb1e-c4ad2a342278" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Chapter8/Cha8HW/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/Domain/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/HouseRentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/Service/HouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/Utils/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/View/HouseView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/IntelliJ IDEA Community/APComputerScience",
+    "last_opened_file_path": "D:/IntelliJIDEACommunity/JavaLearningHSP",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
@@ -279,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672717596164</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update">
+      <created>1672892724837</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1672892724837</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
