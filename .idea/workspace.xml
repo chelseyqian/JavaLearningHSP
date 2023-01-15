@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d82ae8-4093-41ce-bb1e-c4ad2a342278" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/Domain/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/HouseRentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/Service/HouseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/Utils/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/RentHouse/View/HouseView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/RentHouse/Domain/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/RentHouse/Domain/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/RentHouse/Service/HouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/RentHouse/Service/HouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/RentHouse/Utils/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/RentHouse/Utils/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Project/RentHouse/View/HouseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/RentHouse/View/HouseView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.People (1)">
+  <component name="RunManager" selected="Application.HouseRentApp">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter8.Cha8HW.Bank" />
       <module name="JavaLearningHSP" />
@@ -73,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter8.MainPerson" />
+    <configuration name="HouseRentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project.RentHouse.HouseRentApp" />
       <module name="JavaLearningHSP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter8.*" />
+          <option name="PATTERN" value="Project.RentHouse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HouseRentApp" />
         <item itemvalue="Application.People (1)" />
         <item itemvalue="Application.People" />
         <item itemvalue="Application.DoctorEquals" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.MainPerson" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672892724837</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update">
+      <created>1672986281685</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672986281685</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

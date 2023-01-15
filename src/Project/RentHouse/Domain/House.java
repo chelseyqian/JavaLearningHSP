@@ -59,6 +59,9 @@ public class House {
     }
 
     public void setRent(int rent) {
+        if (rent == -1) {
+            return;
+        }
         this.rent = rent;
     }
 
