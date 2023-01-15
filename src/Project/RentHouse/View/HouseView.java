@@ -162,7 +162,7 @@ public class HouseView {
                     delHouse();
                     break;
                 case '4' :
-                    System.out.println();
+                    update();
                     break;
                 case '5' :
                     listHouses();
