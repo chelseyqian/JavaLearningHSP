@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d82ae8-4093-41ce-bb1e-c4ad2a342278" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Cha10HW/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Cha10HW/TestAB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Cha10HW/TestCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Cha10HW/TestFrock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/Cha10HW/TestVehicles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/Cha11HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/Enumeration1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/Enumeration2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/EnumerationExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter12/ExceptionExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -324,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674362582655</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="update">
+      <created>1674450901912</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1674450901912</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
